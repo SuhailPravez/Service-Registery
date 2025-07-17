@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../User Service"
+		},
+		{
+			"path": "../../Hotel Service"
+		},
+		{
+			"path": "../../Rating Service"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
