@@ -11,6 +11,12 @@
 		},
 		{
 			"path": "../Rating-Service"
+		},
+		{
+			"path": "../Api-Gateway"
+		},
+		{
+			"path": "../Config-Server"
 		}
 	],
 	"settings": {
